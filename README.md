@@ -16,7 +16,7 @@ npm run build
 ```
 npm run lint
 ```
-## `Screenshot tampilan project`
+## `Screenshot Tampilan Hasil`
 `Tampilan Utama`
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/71377466/233338782-4304560f-24bd-40f3-9461-615238d8bcac.png">
 `Search Engine`
