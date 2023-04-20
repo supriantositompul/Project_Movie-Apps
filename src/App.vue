@@ -124,7 +124,31 @@ export default {
   padding: 0;
   box-sizing: border-box;
 }
+ .read-more {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    color: #333;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: all 0.2s ease-in-out;
+  }
 
+  .read-more:hover {
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .read-more i {
+    margin-left: 5px;
+  }
 nav {
   display: flex;
   justify-content: space-between;
