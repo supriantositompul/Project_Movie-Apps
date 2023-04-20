@@ -87,7 +87,7 @@ export default {
             id: result.show.id,
             name: result.show.name,
             image: result.show.image,
-
+            url: result.show.url
           };
         });
         this.loading = false;
