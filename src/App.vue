@@ -24,7 +24,7 @@
         <div class="card-content">
           <h2>{{ show.name }}</h2>
           <p>{{ show.summary }}</p>
-          <a :href="show.url" target="_blank" class="read-more" tag="button" type="button" v-bind:style="{opacity: 1}" v-show="show.url">Read More</a>
+          <a :href="show.url" target="_blank" class="read-more" tag="button" type="button" v-bind:style="{opacity: 1}" v-show="show.url">View More</a>
         </div>
       </div>
       <div v-if="loading">Loading...</div>
