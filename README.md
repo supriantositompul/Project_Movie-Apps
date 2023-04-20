@@ -1,4 +1,4 @@
-# Suprianto Dharma Sitompul - Frontend Developer - Technical Test Jobhun Internship 2023  
+# Suprianto Dharma Sitompul - Frontend Developer - Technical Test Jobhun Internship 2023
 
 ## Project setup
 ```
@@ -32,5 +32,4 @@ npm run lint
 
 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
