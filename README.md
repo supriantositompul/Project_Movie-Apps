@@ -1,4 +1,4 @@
-# [Internships] - Suprianto Dharma Sitompul | Frontend Developer | Technical Test Jobhun Internship 2023
+# [Internships] | Suprianto Dharma Sitompul - Frontend Developer - Technical Test Jobhun Internship 2023
 
 ## `Project setup`
 ```
@@ -18,9 +18,9 @@ npm run lint
 ```
 ## `Screenshot Tampilan Hasil`
 `Tampilan Utama`
-<img width="956" alt="image" src="https://user-images.githubusercontent.com/71377466/233338782-4304560f-24bd-40f3-9461-615238d8bcac.png">
+<img width="959" alt="image" src="https://user-images.githubusercontent.com/71377466/233643767-2fe07b28-9b6e-42da-9e3e-e234030f9b3f.png">
 `Search Engine`
-<img width="959" alt="image" src="https://user-images.githubusercontent.com/71377466/233338721-22f59485-104e-4418-b1e6-5aad70ef69c0.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/71377466/233643885-2db46c46-5810-4a21-91ac-2331a87a1c6f.png">
 
 <br>
  🧞‍♂️ Develop By.Suprianto Dharma Sitompul
