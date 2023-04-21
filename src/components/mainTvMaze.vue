@@ -2,10 +2,10 @@
   <div id="app">
     <nav>
       <div class="logo">
-        <h1>Movie App</h1>
+        <h1 @click="getShows">Movie App</h1>
       </div>
       <ul class="menu">
-        <li><a href="#">Home</a></li>
+        <li><a @click="getShows">Home</a></li>
         <li><a href="#">Movie List</a></li>
         <li>
           <form @submit.prevent="searchShows">
