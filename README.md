@@ -24,7 +24,7 @@ npm run lint
 <img width="958" alt="image" src="https://user-images.githubusercontent.com/71377466/233651958-07899d5a-d48d-445f-b1a7-f423faa52b84.png">
 
 <br>
- ###🧞‍♂️ Develop By. Suprianto Dharma Sitompul
+🧞‍♂️ Develop By. Suprianto Dharma Sitompul
 
 
 
