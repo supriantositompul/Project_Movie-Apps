@@ -4,32 +4,6 @@
     box-sizing: border-box;
 }
 
-.read-more {
-    background-color: #fff;
-    border: 1px solid #ccc;
-    color: #333;
-    display: inline-block;
-    font-size: 14px;
-    font-weight: bold;
-    margin-top: 10px;
-    padding: 8px 20px;
-    text-align: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    transition: all 0.2s ease-in-out;
-}
-
-.read-more:hover {
-    background-color: #333;
-    color: #fff;
-    cursor: pointer;
-    transition: all 0.2s ease-in-out;
-}
-
-.read-more i {
-    margin-left: 5px;
-}
-
 nav {
     display: flex;
     justify-content: space-between;
@@ -136,6 +110,46 @@ nav button[type="submit"]:hover {
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
     padding: 2rem;
+}
+
+.card-content {
+    border: none;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    background-color: #fff;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.read-more {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #94c2f3;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: 2px solid #e5ffbe;
+}
+
+.read-more:hover {
+    background-color: #ffffff;
+    border-color: #0056b3;
+    cursor: pointer;
 }
 
 .card {
