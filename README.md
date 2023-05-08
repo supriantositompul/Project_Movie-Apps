@@ -1,4 +1,4 @@
-# [Internship] | Suprianto Dharma Sitompul - Frontend Developer - Technical Test Jobhun Internship 2023
+# [Independent Project] | Movie Apps
 
 ## `Project setup`
 ```
